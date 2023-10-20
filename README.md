@@ -13,7 +13,9 @@ Skills and Technical Aptitude:
  
  • Certifications: 
    1.Certified Scrum Master (CSM)
+   
    2.Certified Scrum Product Owner (CSPO)
+   
    3.PMP Certification in progress.
 
 
