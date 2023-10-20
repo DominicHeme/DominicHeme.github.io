@@ -8,7 +8,9 @@ As an adept communicator and strategic relationship-builder, I have seamlessly i
 Skills and Technical Aptitude:
 
  • Project Management: Change Management, Release Management, Process Improvement, Gap Analysis, Audit and Compliance, Identity and Access Management.
+ 
  • Technical Proficiency: JIRA, Confluence, Service Now, MS Project, LPS, LoanSphere, SharePoint, Power BI, Fiserv/Sagent, Tempo, Onbase, Equator, DARTS, TRAX, QAS, iSeries/AS400 and more.
+ 
  • Certifications: Scrum Master (CSM), Scrum Certified Product Owner (CSPO), PMP Certification in progress.
 
 
