@@ -1,22 +1,18 @@
-# Dominic Heme's Bio
-Highly accomplished and certified Project Management leader with over 15 years of dedicated experience in the Financial Services industry, specializing in Mortgage Servicing, Insurance, Acquisitions, and Default Operations. As an Agile and Scrum Master-certified professional, I have a track record of driving transformative change, ensuring regulatory compliance, and optimizing business processes within demanding and time-sensitive environments.
+Product-minded leader with 15+ years in Financial Services, driving technology-enabled transformation at the intersection of Servicing operations and platform strategy, specializing in Mortgage Servicing, Lending and Financial Accounting systems. I translate deep operational and regulatory expertise into product strategy, owning roadmaps, authoring PRDs, and prioritizing backlogs for platforms used across the mortgage servicing lifecycle.
+I've partnered with some of the nation's largest Mortgage Lenders, Servicers, and Government-Sponsored Entities (GSEs), working at the intersection of servicing operations, compliance, and technology. That background lets me define product requirements grounded in real workflow constraints, not just theoretical use cases, and translate SME depth into features that hold up under regulatory scrutiny.
+As a strategic communicator and cross-functional collaborator, I work fluidly across engineering,product development, compliance, and business stakeholders to move products from concept to delivery. I'm known for identifying process gaps early, driving continuous improvement, and building alignment in complex, time-sensitive environments.
 
-My portfolio includes working with some of the nation’s largest Mortgage Lenders, Servicers, and Government-Sponsored Entities (GSEs). My extensive expertise encompasses Mortgage Origination systems, Regulatory Compliance, Quality Assurance, Loss Mitigation, Bankruptcy, Foreclosure, and Vendor Management. These achievements underscore my commitment to exceeding project management standards.
+Core Strengths
+Product roadmap ownership and backlog prioritization
+PRD authorship and requirements gathering
+B2B SaaS delivery in regulated environments
+Stakeholder and client/partner liaison work
+Training and enablement for platform adoption
+Process improvement, gap analysis, audit and compliance
 
-As an adept communicator and strategic relationship-builder, I have seamlessly integrated into diverse business project management environments, maximizing personal effectiveness, and delivering impressive business and project results. My innovative approach to problem-solving and passion for continuous improvement make me an asset to any forward-thinking team.
+Platform & Systems Expertise
+Deep familiarity with core mortgage servicing and origination platforms, including their underlying product architecture, workflow logic, and support frameworks: ICE Mortgage Technology (Encompass), Black Knight MSP, ValonOS, LoanSphere, Fiserv/Sagent, Tempo, OnBase, Equator, DARTS, TRAX, QAS, and iSeries/AS400.
+This includes hands-on experience translating platform capabilities and limitations into product requirements, supporting implementation and onboarding workflows, and serving as the SME bridge between servicing operations and engineering teams during platform configuration, upgrades, and issue resolution.
 
-Skills and Technical Aptitude:
-
- • Project Management: Change Management, Release Management, Process Improvement, Gap Analysis, Audit and Compliance, Identity and Access Management.
- 
- • Technical Proficiency: JIRA, Confluence, Service Now, MS Project, LPS, LoanSphere, SharePoint, Power BI, Fiserv/Sagent, Tempo, Onbase, Equator, DARTS, TRAX, QAS, iSeries/AS400 and more.
- 
- • Certifications: 
-   1.Certified Scrum Master (CSM)
-   
-   2.Certified Scrum Product Owner (CSPO)
-   
-   3.PMP Certification in progress.
-
-
-I look forward to connecting with industry leaders, like-minded professionals, and potential collaborators to explore synergies and grow together in the ever-evolving world of Project & Program Management.
+Supporting Tools
+JIRA, Confluence,TFS, ServiceNow, MS Project, SharePoint, Power BI, HEX & SQL Server
